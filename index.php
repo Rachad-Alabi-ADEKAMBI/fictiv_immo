@@ -23,7 +23,7 @@
                         pour habiter avec votre famille</h1>
                     <p class="animated fadeIn mb-4 pb-2">Dites nous juste ce que vous recherchez, nous nous chargeons du
                         reste</p>
-                    <a href="" class="btn btn-primary py-3 animated fadeIn">Voir les annonces</a>
+                    <a href="properties.php" class="btn btn-primary py-3 animated fadeIn">Voir les annonces</a>
                 </div>
                 <div class="col-md-6 animated fadeIn">
                     <div class="owl-carousel header-carousel">
@@ -110,12 +110,21 @@
                     </div>
                     <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                         <h1 class="mb-4">#1 le lieu idéal pour trouver votre prochaine propriété</h1>
-                        <p class="mb-4">Une simple recherche ou un simple message et en quelques minutes vous trouvez ce
-                            que vous cherchez</p>
-                        <p><i class="fa fa-check text-primary me-3"></i>Des biens sécurisés et fiables</p>
-                        <p><i class="fa fa-check text-primary me-3"></i>Un suivi adéquat de votre projet</p>
-                        <p><i class="fa fa-check text-primary me-3"></i>Pas de frais à verser avant satisfaction
+                        <p class="mb-4">Nous sommes une agence immobilière présente
+                            à Parakou. Notre équipe est composée d'agents immobiliers chevronnés et la satisfaction de
+                            la clientèle est
+                            notre garantie. Nous vous aidons à gérer
+                            toutes
+                            vos transactions immobilières rapidement et éfficacement. Nos services sont entre autres:
+                        </p>
+                        <p><i class="fa fa-check text-primary me-3"></i>La recherche de biens immobiliers (appartements,
+                            maisons, etc...)</p>
+                        <p><i class="fa fa-check text-primary me-3"></i>Suivi et conseil en gestion immobilière
                             complète</p>
+                        <p><i class="fa fa-check text-primary me-3"></i>La gestion de vos transactions de vente et achat
+                            de biens immobiliers
+                        </p>
+
                     </div>
                 </div>
             </div>
@@ -181,7 +190,7 @@
                             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                                 <div class="property-item rounded overflow-hidden">
                                     <div class="position-relative overflow-hidden">
-                                        <a href=""><img class="img-fluid" src="img/home4.jpeg" alt=""></a>
+                                        <a href=""><img class="img-fluid" src="img/appart3.jpeg" alt=""></a>
                                         <div
                                             class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">
                                             A vendre</div>
@@ -191,8 +200,11 @@
                                     </div>
                                     <div class="p-4 pb-0">
                                         <h5 class="text-primary mb-3">20.000.000 F</h5>
-                                        <a class="d-block h5 mb-2" href="">Maison à vendre</a>
-                                        <p><i class="fa fa-map-marker-alt text-primary me-2"></i>face hotel Kobourou</p>
+                                        <a class="d-block h5 mb-2" href="">
+                                            Maison à vendre</a>
+                                        <p><i class="fa fa-map-marker-alt text-primary me-2">
+
+                                            </i>Gbira</p>
                                     </div>
                                     <div class="d-flex border-top">
                                         <small class="flex-fill text-center border-end py-2"><i
@@ -261,7 +273,7 @@
                                 </div>
                             </div>
                             <div class="text-center p-4 mt-3">
-                                <h5 class="fw-bold mb-0">Marc Aurèle</h5>
+                                <h5 class="fw-bold mb-0">Jean</h5>
                                 <small>agent immobilier</small>
                             </div>
                         </div>
@@ -278,7 +290,7 @@
                                 </div>
                             </div>
                             <div class="text-center p-4 mt-3">
-                                <h5 class="fw-bold mb-0">Cicéron</h5>
+                                <h5 class="fw-bold mb-0">Paul</h5>
                                 <small>Agent immobilier</small>
                             </div>
                         </div>
@@ -295,7 +307,7 @@
                                 </div>
                             </div>
                             <div class="text-center p-4 mt-3">
-                                <h5 class="fw-bold mb-0">Sénèque</h5>
+                                <h5 class="fw-bold mb-0">Pierre</h5>
                                 <small>Agent immobilier</small>
                             </div>
                         </div>
@@ -320,8 +332,8 @@
                                 temps, je
                                 suis vraiment satisfait</p>
                             <div class="d-flex align-items-center">
-                                <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-1.jpg"
-                                    style="width: 45px; height: 45px;">
+                                <img class="img-fluid flex-shrink-0
+                                 rounded" src="img/testimonial-1.jpg" style="width: 45px; height: 45px;">
                                 <div class="ps-3">
                                     <h6 class="fw-bold mb-1">Marie</h6>
                                     <small>Commercante</small>
@@ -331,10 +343,11 @@
                     </div>
                     <div class="testimonial-item bg-light rounded p-3">
                         <div class="bg-white border rounded p-4">
-                            <p>Service de qualité, désormais toutes mes opérations d'achat de parcelles seront gérées
+                            <p>Service de qualité, désormais toutes mes
+                                opérations d'achat de parcelles seront gérées
                                 par votre agence</p>
                             <div class="d-flex align-items-center">
-                                <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-2.jpg"
+                                <img class="img-fluid flex-shrink-0 rounded" src="img/user4.jpg"
                                     style="width: 45px; height: 45px;">
                                 <div class="ps-3">
                                     <h6 class="fw-bold mb-1">Benjamin</h6>
@@ -347,7 +360,7 @@
                         <div class="bg-white border rounded p-4">
                             <p>J'aime beaucoup votre implication, je reviendrai certainement</p>
                             <div class="d-flex align-items-center">
-                                <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-3.jpg"
+                                <img class="img-fluid flex-shrink-0 rounded" src="img/user3.jpeg"
                                     style="width: 45px; height: 45px;">
                                 <div class="ps-3">
                                     <h6 class="fw-bold mb-1">Paul</h6>

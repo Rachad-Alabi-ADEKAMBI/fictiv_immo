@@ -26,3 +26,5 @@
 
 <!-- Template Stylesheet -->
 <link href="css/style.css" rel="stylesheet">
+<meta name="robots" content="index, follow" />
+<meta name="description" content="Agence immobilière à Parakou">

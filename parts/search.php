@@ -20,8 +20,10 @@
                         <select class="form-select border-0 py-3">
                             <option selected>Zone</option>
                             <option value="1">Albarika</option>
-                            <option value="2">Guema</option>
                             <option value="3">Bannikani</option>
+                            <option value="">Cuanou</option>
+                            <option value="2">Gbira</option>
+                            <option value="2">Guema</option>
                             <option value="3">Titirou</option>
                             <option value="">Tranza</option>
                             <option value="">Yokossi 1</option>
@@ -33,7 +35,8 @@
                 </div>
             </div>
             <div class="col-md-2">
-                <button class="btn btn-dark border-0 w-100 py-3">Chercher</button>
+                <a href="results.php" class="btn btn-dark border-0 w-100 py-3">
+                    Chercher</a>
             </div>
         </div>
     </div>

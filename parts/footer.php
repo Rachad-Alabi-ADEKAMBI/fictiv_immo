@@ -16,32 +16,31 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-white mb-4">Liens</h5>
-                <a class="btn btn-link text-white-50" href="">A propos</a>
-                <a class="btn btn-link text-white-50" href="">Contact</a>
-                <a class="btn btn-link text-white-50" href="">Nos Services</a>
-                <a class="btn btn-link text-white-50" href="">Politique de confidentialité</a>
-                <a class="btn btn-link text-white-50" href="">Conditions générales</a>
+                <a class="btn btn-link text-white-50" href="index.php#about">A propos</a>
+                <a class="btn btn-link text-white-50" href="contact.php">Contact</a>
+                <a class="btn btn-link text-white-50" href="index.php">Politique de confidentialité</a>
+                <a class="btn btn-link text-white-50" href="index.php">Conditions générales</a>
             </div>
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-white mb-4">Galerie photo</h5>
                 <div class="row g-2 pt-2">
                     <div class="col-4">
-                        <img class="img-fluid rounded bg-light p-1" src="img/property-1.jpg" alt="">
+                        <img class="img-fluid rounded bg-light p-1" src="img/magasin1.jpg" alt="">
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid rounded bg-light p-1" src="img/property-2.jpg" alt="">
+                        <img class="img-fluid rounded bg-light p-1" src="img/home3.jpeg" alt="">
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid rounded bg-light p-1" src="img/property-3.jpg" alt="">
+                        <img class="img-fluid rounded bg-light p-1" src="img/home2.jpeg" alt="">
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid rounded bg-light p-1" src="img/property-4.jpg" alt="">
+                        <img class="img-fluid rounded bg-light p-1" src="img/home4.jpeg" alt="">
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid rounded bg-light p-1" src="img/property-5.jpg" alt="">
+                        <img class="img-fluid rounded bg-light p-1" src="img/appart3.jpeg" alt="">
                     </div>
-                    <div class="col-4">
-                        <img class="img-fluid rounded bg-light p-1" src="img/property-6.jpg" alt="">
+                    <div class=" col-4">
+                        <img class="img-fluid rounded bg-light p-1" src="img/bureaux3.jpeg" alt="">
                     </div>
                 </div>
             </div>
@@ -65,12 +64,12 @@
 
                     <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
                     Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a> | <a
-                        class="border-bottom" href="">Codeur Creéatif</a>
+                        class="border-bottom" href="rachad-alabi-adekambi.github.io/portfolio/">Codeur Créatif</a>
                 </div>
                 <div class="col-md-6 text-center text-md-end">
                     <div class="footer-menu">
-                        <a href="">Accueil</a>
-                        <a href="">FAQ</a>
+                        <a href="index.php">Accueil</a>
+                        <a href="contact.php">Contact</a>
                     </div>
                 </div>
             </div>
