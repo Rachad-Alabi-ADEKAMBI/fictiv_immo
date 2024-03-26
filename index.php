@@ -4,7 +4,7 @@
 <head>
     <?php include 'parts/meta.php'; ?>
 
-    <title>Fictiv Immo - Accueil</title>
+    <title>Fictiv Immo Parakou - Accueil</title>
 </head>
 
 <body>
