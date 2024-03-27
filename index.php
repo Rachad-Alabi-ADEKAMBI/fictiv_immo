@@ -54,7 +54,7 @@
                                     <img class="img-fluid" src="img/icon-apartment.png" alt="Icon">
                                 </div>
                                 <h6>Apartements</h6>
-                                <span>30 annonces</span>
+                                <span>40 annonces</span>
                             </div>
                         </a>
                     </div>
