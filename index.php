@@ -66,7 +66,7 @@
                                     <img class="img-fluid" src="img/icon-house.png" alt="Icon">
                                 </div>
                                 <h6>Maisons</h6>
-                                <span>20 annonces</span>
+                                <span>15 annonces</span>
                             </div>
                         </a>
                     </div>
