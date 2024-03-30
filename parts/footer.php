@@ -4,7 +4,7 @@
         <div class="row g-5">
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-white mb-4">Contactez-nous</h5>
-                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Parakou, Titirou, 721 Lol</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Parakou, Titirou, 721 Lol Fictiv</p>
                 <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+229 41 59 76 42</p>
                 <p class="mb-2"><i class="fa fa-envelope me-3"></i>contact@fictiv_immo.com</p>
                 <div class="d-flex pt-2">
