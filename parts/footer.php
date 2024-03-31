@@ -25,22 +25,28 @@
                 <h5 class="text-white mb-4">Galerie photo</h5>
                 <div class="row g-2 pt-2">
                     <div class="col-4">
-                        <img class="img-fluid rounded bg-light p-1" src="img/magasin1.jpg" alt="">
+                        <img class="img-fluid rounded bg-light p-1" src="img/magasin1.jpg"
+                            alt="agence immobiliere a parakou">
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid rounded bg-light p-1" src="img/home3.jpeg" alt="">
+                        <img class="img-fluid rounded bg-light p-1" src="img/home3.jpeg"
+                            alt="agence immobiliere a parakou">
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid rounded bg-light p-1" src="img/home2.jpeg" alt="">
+                        <img class="img-fluid rounded bg-light p-1" src="img/home2.jpeg"
+                            alt="agence immobiliere a parakou">
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid rounded bg-light p-1" src="img/home4.jpeg" alt="">
+                        <img class="img-fluid rounded bg-light p-1" src="img/home4.jpeg"
+                            alt="agence immobiliere a parakou">
                     </div>
                     <div class="col-4">
-                        <img class="img-fluid rounded bg-light p-1" src="img/appart3.jpeg" alt="">
+                        <img class="img-fluid rounded bg-light p-1" src="img/appart3.jpeg"
+                            alt="agence immobiliere a parakou">
                     </div>
                     <div class=" col-4">
-                        <img class="img-fluid rounded bg-light p-1" src="img/bureaux3.jpeg" alt="">
+                        <img class="img-fluid rounded bg-light p-1" src="img/bureaux3.jpeg"
+                            alt="agence immobiliere a parakou">
                     </div>
                 </div>
             </div>
@@ -49,7 +55,7 @@
                 <p>Recevez chaque semaine une liste personelle de nos publications</p>
                 <div class="position-relative mx-auto" style="max-width: 400px;">
                     <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text"
-                        placeholder="Votre email">
+                        placeholder="Votre email" name='email'>
                     <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">Je
                         m'inscris</button>
                 </div>
