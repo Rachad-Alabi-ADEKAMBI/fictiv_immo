@@ -39,7 +39,8 @@
                 <div class="row g-0 gx-5 align-items-end">
                     <div class="col">
                         <p>
-                            Aucun résultat ne correspond à votre recherche, ce site est juste un site
+                            Aucun résultat ne correspond à
+                             votre recherche, ce site est juste un site
                             <strong>fictif</strong>, un
                             exemple,
                             N'hésitez pas à me <strong><a
